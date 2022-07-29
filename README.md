@@ -5,4 +5,5 @@
 
 
 ## How it display the DATA
+**all the data save in inventory.txt file, this file automatically create.**
 <img src="image/2.jpg" width=600/>
