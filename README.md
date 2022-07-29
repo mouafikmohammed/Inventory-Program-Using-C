@@ -1,1 +1,1 @@
-# Inventory-Program-Using-C
+# Inventory Program Using C
